@@ -1,7 +1,7 @@
 # Consolidated UserSeek v0.1 based on UserSeek V1.0 from thelinuxchoice
 ## IG: instagram.com/rodrilogue
 
-Seek Available usernames and Instagram, Twitter
+Seek Available usernames in Instagram and Twitter at the same time
 
 
 
